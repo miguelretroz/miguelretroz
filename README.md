@@ -2,11 +2,10 @@
 # <Hello There!/>
 
 <a href="https://github.com/MiguelRetroz">
-<img src='./img/hello_there.webp' width='250px'/>
+<img src='./img/hello_there.webp' height="120px" width="250px"/>
 </a>
 
-##
-## Eu sou o Miguel Retroz, seja bem vido(a) ao meu perfil.
+<h3> Eu sou o Miguel Retroz, seja bem vido(a) ao meu perfil. </h3>
 
 - 💻 Atualmente estou estudando desenvolvimento Web na Trybe.
 
@@ -22,8 +21,8 @@
 
 <a href="https://github.com/MiguelRetroz">
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelRetroz&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRetroz&layout=compact&theme=shades-of-purple">
+    <img width="52.6%" src="https://github-readme-stats.vercel.app/api?username=MiguelRetroz&show_icons=true&include_all_commits=true&count_private=true&bg_color=45deg,009e63,6878FF&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px"/>
+      <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRetroz&layout=compact&bg_color=45deg,6878FF,009e63&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px">
   </div>
 </a>
 
