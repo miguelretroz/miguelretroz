@@ -36,6 +36,7 @@
     <img align="center" src="./img/javascript-original.svg" height="40">
     <img align="center" src="./img/jest-plain.svg" height="40">
     <img align="center" src="./img/react-original.svg" height="40">
+    <img align="center" src="./img/redux-original.svg" height="40">
   </a>
 </div>
 
