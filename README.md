@@ -2,7 +2,7 @@
   &lt;Hello There!/&gt;
 </h1>
 <div align="center">
-<a href="" align="center">
+<a href="https://github.com/MiguelRetroz" align="center">
 <img src='./img/hello_there.webp' height="200px"/>
 </a>
 </div>
@@ -51,4 +51,12 @@
   <a href="https://www.linkedin.com/in/miguelretroz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+</div>
+
+<div align="center">
+  <h4>
+  <img align="center" src="./img/r2d2.png" width="20px">
+  Que a força esteja com você!
+  <img align="center" src="./img/c3po.png" width="20px">
+  </h4>
 </div>
