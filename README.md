@@ -2,7 +2,7 @@
   &lt;Hello There!/&gt;
 </h1>
 <div align="center">
-<a href="https://github.com/MiguelRetroz" align="center">
+<a href="#" align="center">
 <img src='./img/hello_there.webp' height="200px"/>
 </a>
 </div>
@@ -16,14 +16,14 @@
 ##
 
 <div>
-  <a href="https://github.com/MiguelRetroz">
+  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=MiguelRetroz&color=blueviolet" />
   </a>
 </div>
 
 <br>
 
-<a href="https://github.com/MiguelRetroz" align="center">
+<a href="#" align="center">
   <div>
     <img width="52.6%" src="https://github-readme-stats.vercel.app/api?username=MiguelRetroz&show_icons=true&include_all_commits=true&count_private=true&bg_color=45deg,009e63,6878FF&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px"/>
       <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRetroz&layout=compact&bg_color=45deg,6878FF,009e63&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px">
@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/MiguelRetroz">
+  <a href="#">
     <img align="center" src="./img/git-original.svg" height="40">
     <img align="center" src="./img/html5-original.svg" height="40">
     <img align="center" src="./img/css3-original.svg" height="40">
@@ -55,8 +55,12 @@
 
 <div align="center">
   <h4>
-  <img align="center" src="./img/r2d2.png" width="20px">
+  <a href="#">
+    <img align="center" src="./img/r2d2.png" width="20px">
+  </a>
   Que a força esteja com você!
-  <img align="center" src="./img/c3po.png" width="20px">
+  <a href="#">
+    <img align="center" src="./img/c3po.png" width="20px">
+  </a>
   </h4>
 </div>
