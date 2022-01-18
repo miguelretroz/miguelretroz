@@ -32,15 +32,41 @@
 
 <br>
 
+<h2 align="center">
+&lt;Tecnologias/&gt;
+</h2>
+
 <div align="center">
   <a href="#">
-    <img align="center" src="./img/git-original.svg" height="40">
-    <img align="center" src="./img/html5-original.svg" height="40">
-    <img align="center" src="./img/css3-original.svg" height="40">
-    <img align="center" src="./img/javascript-original.svg" height="40">
-    <img align="center" src="./img/jest-plain.svg" height="40">
-    <img align="center" src="./img/react-original.svg" height="40">
-    <img align="center" src="./img/redux-original.svg" height="40">
+    <img align="center" src="./img/git-logo.svg" height="65">
+    <img align="center" src="./img/javascript-logo.svg" height="50">
+    <img align="center" src="./img/jest-logo.svg" height="55">
+    <img align="center" src="./img/docker-logo.svg" height="55">
+    <img align="center" src="./img/bash-logo.svg" height="55">
+  </a>
+</div>
+
+<div align="center">
+  <h3 align="center">
+  Front-end
+  </h3>
+  <a href="#">
+    <img align="center" src="./img/html5-logo.svg" height="55">
+    <img align="center" src="./img/css3-logo.svg" height="55">
+    <img align="center" src="./img/react-logo.svg" height="55">
+    <img align="center" src="./img/redux-logo.svg" height="55">
+  </a>
+</div>
+
+<div align="center">
+  <h3 align="center">
+  Back-end
+  </h3>
+  <a href="#">
+    <img align="center" src="./img/mysql-logo.svg" height="50">
+    <img align="center" src="./img/mongodb-logo.svg" height="60">
+    <img align="center" src="./img/nodejs-logo.svg" height="70">
+    <img align="center" src="./img/express-logo.svg" height="45">
   </a>
 </div>
 
