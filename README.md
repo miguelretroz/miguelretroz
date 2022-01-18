@@ -45,6 +45,7 @@
     <img align="center" src="./img/javascript-logo.svg" height="50">
     <img align="center" src="./img/jest-logo.svg" height="55">
     <img align="center" src="./img/docker-logo.svg" height="55">
+    <img align="center" src="./img/socket-io-logo.svg" height="55">
     <img align="center" src="./img/bash-logo.svg" height="55">
   </a>
 </div>
