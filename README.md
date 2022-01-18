@@ -10,7 +10,10 @@
 <div align='center'>
   <h3> Eu sou o Miguel Retroz, seja bem vido(a) ao meu perfil. </h3>
 
-`💻 Atualmente estou estudando desenvolvimento Web na Trybe.`
+`💻 Tenho como foco desenvolver e melhorar minhas habilidades como programador, buscando sempre novos aprendizados e experiências.`
+
+`📖 Atualmente sou estudante de desenvolvimento de software pela Trybe, onde dia após dia venho me aprimorando.`
+
 </div>
 
 ##
