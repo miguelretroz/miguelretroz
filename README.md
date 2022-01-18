@@ -55,6 +55,7 @@
     <img align="center" src="./img/css3-logo.svg" height="55">
     <img align="center" src="./img/react-logo.svg" height="55">
     <img align="center" src="./img/redux-logo.svg" height="55">
+    <img align="center" src="./img/figma-logo.svg" height="55">
   </a>
 </div>
 
