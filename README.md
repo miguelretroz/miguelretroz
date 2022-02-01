@@ -47,6 +47,7 @@
     <img align="center" src="./img/docker-logo.svg" height="55">
     <img align="center" src="./img/socket-io-logo.svg" height="55">
     <img align="center" src="./img/bash-logo.svg" height="55">
+    <img align="center" src="./img/csharp-logo.svg" height="55">
   </a>
 </div>
 
