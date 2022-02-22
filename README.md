@@ -8,7 +8,7 @@
 </div>
 
 <div align='center'>
-  <h3> Eu sou o Miguel Retroz, seja bem vido(a) ao meu perfil. </h3>
+  <h3> Eu sou o Miguel Retroz, seja bem vindo(a) ao meu perfil. </h3>
 
 `💻 Tenho como foco desenvolver e melhorar minhas habilidades como programador, buscando sempre novos aprendizados e experiências.`
 
