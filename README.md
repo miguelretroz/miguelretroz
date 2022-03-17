@@ -28,8 +28,8 @@
 
 <a href="#" align="center">
   <div>
-    <img width="52.6%" src="https://github-readme-stats.vercel.app/api?username=MiguelRetroz&show_icons=true&include_all_commits=true&count_private=true&bg_color=45deg,009e63,6878FF&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px"/>
-      <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelRetroz&layout=compact&bg_color=45deg,6878FF,009e63&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px">
+    <img width="52.6%" src="https://miguel-retroz-github-readme-stats.vercel.app/api?username=MiguelRetroz&show_icons=true&include_all_commits=true&count_private=true&bg_color=45deg,009e63,6878FF&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px"/>
+      <img width="44%" src="https://miguel-retroz-github-readme-stats.vercel.app/api/top-langs/?username=MiguelRetroz&layout=compact&bg_color=45deg,6878FF,009e63&border_color=9243fc&hide_border=true&icon_color=ffd903&text_color=363636&title_color=ffd903&border_radius=5px">
   </div>
 </a>
 
