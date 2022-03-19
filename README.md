@@ -40,13 +40,25 @@
 </h2>
 
 <div align="center">
-  <a href="#">
+  <a href="https://git-scm.com/about">
     <img align="center" src="./img/git-logo.svg" height="65">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img align="center" src="./img/javascript-logo.svg" height="50">
+  </a>
+  <a href="https://jestjs.io/">
     <img align="center" src="./img/jest-logo.svg" height="55">
+  </a>
+  <a href="https://www.docker.com/">
     <img align="center" src="./img/docker-logo.svg" height="55">
+  </a>
+  <a href="https://socket.io/">
     <img align="center" src="./img/socket-io-logo.svg" height="55">
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
     <img align="center" src="./img/bash-logo.svg" height="55">
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/">
     <img align="center" src="./img/csharp-logo.svg" height="55">
   </a>
 </div>
@@ -55,13 +67,25 @@
   <h3 align="center">
   Front-end
   </h3>
-  <a href="#">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img align="center" src="./img/html5-logo.svg" height="55">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img align="center" src="./img/css3-logo.svg" height="55">
+  </a>
+  <a href="https://reactjs.org/">
     <img align="center" src="./img/react-logo.svg" height="55">
+  </a>
+  <a href="https://redux.js.org/">
     <img align="center" src="./img/redux-logo.svg" height="55">
+  </a>
+  <a href="https://nextjs.org/">
     <img align="center" src="./img/next-js-logo.svg" height="65">
+  </a>
+  <a href="https://styled-components.com/">
     <img align="center" src="./img/styled-components-logo.svg" height="55">
+  </a>
+  <a href="https://www.figma.com/">
     <img align="center" src="./img/figma-logo.svg" height="55">
   </a>
 </div>
@@ -70,10 +94,16 @@
   <h3 align="center">
   Back-end
   </h3>
-  <a href="#">
+  <a href="https://www.mysql.com/">
     <img align="center" src="./img/mysql-logo.svg" height="50">
+  </a>
+  <a href="https://www.mongodb.com/">
     <img align="center" src="./img/mongodb-logo.svg" height="60">
+  </a>
+  <a href="https://nodejs.org/en/">
     <img align="center" src="./img/nodejs-logo.svg" height="70">
+  </a>
+  <a href="https://expressjs.com/">
     <img align="center" src="./img/express-logo.svg" height="45">
   </a>
 </div>
