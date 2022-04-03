@@ -108,6 +108,17 @@
   </a>
 </div>
 
+
+<h2 align="center">
+&lt;Projetos/&gt;
+</h2>
+
+<div>
+  <a href="https://github.com/MiguelRetroz/trybe-wallet">
+    <img alt="trybe-wallet card" width="49%" src="./img/card-trybe-wallet.svg"/>
+  </a>
+</div>
+
 ##
 <div align="center">
   <a href = "https://www.instagram.com/miguel_retroz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
