@@ -114,8 +114,14 @@
 </h2>
 
 <div>
+<div align="center">
+  <h3 align="center">
+  &lt;
+      <img  align="center" alt="Trybe wallet logo" width="25px" src="./img/projects/trybe-wallet/trybe-wallet-logo.svg"/>
+    Trybe Wallet/&gt;
+  </h3>
   <a href="https://github.com/MiguelRetroz/trybe-wallet">
-    <img alt="trybe-wallet card" width="49%" src="./img/card-trybe-wallet.svg"/>
+    <img alt="trybe-wallet card" src="./img/card-trybe-wallet.svg"/>
   </a>
 </div>
 
