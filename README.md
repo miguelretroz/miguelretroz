@@ -114,6 +114,19 @@
 </h2>
 
 <div>
+  <h3 align="center">
+  &lt;
+      <img  align="center" alt="Téskiando logo" width="20px" src="./img/projects/teskiando/teskiando-logo-mini.svg"/>
+    Téskiando/&gt;
+  </h3>
+  <a href="https://github.com/MiguelRetroz/teskiando-front-end">
+    <img alt="Téskiando front-end card" width="49%" src="./img/projects/teskiando/repo-card-teskiando-front-end.svg"/>
+  </a>
+  <a href="https://github.com/MiguelRetroz/teskiando-back-end">
+    <img alt="Téskiando back-end card" width="49%" src="./img/projects/teskiando/repo-card-teskiando-back-end.svg"/>
+  </a>
+</div>
+
 <div align="center">
   <h3 align="center">
   &lt;
