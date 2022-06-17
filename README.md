@@ -12,8 +12,6 @@
 
 `💻 Tenho como foco desenvolver e melhorar minhas habilidades como programador, buscando sempre novos aprendizados e experiências.`
 
-`📖 Atualmente sou estudante de desenvolvimento de software pela Trybe, onde dia após dia venho me aprimorando.`
-
 </div>
 
 ##
