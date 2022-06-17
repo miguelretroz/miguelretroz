@@ -12,7 +12,7 @@
 
 💻 Tenho como foco desenvolver e melhorar minhas habilidades como programador, buscando sempre novos aprendizados e experiências.
   
- 🏢 Atualmente sou desenvolvedor web fullstack Jr na <a href="https://6place.com.br"> 6place </a>, onde dia após dia venho me aprimorando.
+ 🏢 Atualmente sou desenvolvedor web fullstack Jr na <a href="https://6place.com.br"> 6place</a>, onde dia após dia venho me aprimorando.
 
 </div>
 
