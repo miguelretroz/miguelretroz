@@ -10,9 +10,7 @@
 <div align='center'>
   <h3> Eu sou o Miguel Retroz, seja bem vindo(a) ao meu perfil. </h3>
 
-💻 Tenho como foco desenvolver e melhorar minhas habilidades como programador, buscando sempre novos aprendizados e experiências.
-  
- 🏢 Atualmente sou desenvolvedor web fullstack Jr na <a href="https://6place.com.br"> 6place</a>, onde dia após dia venho me aprimorando.
+💻 Meu objetivo é aprimorar minhas habilidades em diferentes áreas da programação e aplicar esse conhecimento em projetos desafiadores e inovadores. Estou sempre buscando novos aprendizados e experiências para expandir meu conhecimento técnico e melhorar minha capacidade de solucionar problemas complexos.
 
 </div>
 
